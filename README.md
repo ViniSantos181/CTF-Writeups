@@ -1,2 +1,2 @@
 # CS&I
-Repositório para atividades do CS&amp;I
+Repositório para as soluções de CTFs.
